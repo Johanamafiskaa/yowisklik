@@ -1,0 +1,38 @@
+{
+  "name": "yowisklik.xyz",
+  "short_name": "YowisKlik",
+  "start_url": "https://www.yowisklik.xyz/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#0373b9",
+  "description": "Indeks Informasi Terlengkap",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-T6L7ESlMZsc/XRqlvhFnPRI/AAAAAAAAAIs/x4WFnKh-LWoP0epndfPnbjznt1Mrn4SqACLcBGAs/s1600/android.icon.yowisklik192x192.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-T6L7ESlMZsc/XRqlvhFnPRI/AAAAAAAAAIs/x4WFnKh-LWoP0epndfPnbjznt1Mrn4SqACLcBGAs/s1600/android.icon.yowisklik192x192.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-T6L7ESlMZsc/XRqlvhFnPRI/AAAAAAAAAIs/x4WFnKh-LWoP0epndfPnbjznt1Mrn4SqACLcBGAs/s1600/android.icon.yowisklik192x192.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-T6L7ESlMZsc/XRqlvhFnPRI/AAAAAAAAAIs/x4WFnKh-LWoP0epndfPnbjznt1Mrn4SqACLcBGAs/s1600/android.icon.yowisklik192x192.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-T6L7ESlMZsc/XRqlvhFnPRI/AAAAAAAAAIs/x4WFnKh-LWoP0epndfPnbjznt1Mrn4SqACLcBGAs/s1600/android.icon.yowisklik192x192.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-T6L7ESlMZsc/XRqlvhFnPRI/AAAAAAAAAIs/x4WFnKh-LWoP0epndfPnbjznt1Mrn4SqACLcBGAs/s1600/android.icon.yowisklik192x192.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-eNtjJxAck2w/XRqoCpwUl2I/AAAAAAAAAJI/p1SFKYx7Q78OrREb-t69UvJhJlaO4JQvQCLcBGAs/s1600/yowisklik.jpg",
+    "sizes": "512x512",
+    "type": "image/jpg"
+  }]
+}
